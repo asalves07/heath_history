@@ -1,0 +1,20 @@
+pt-BR:
+  activerecord:
+    models:
+      treatment:
+        one: Tratamento
+        other: Tratamentos
+    attributes:
+      treatment:
+        title: Título
+        description: Descrição
+        user_id: Paciente
+        appointment_id: Consulta
+        place: Local
+        kind: Tipo
+        date: Data
+        documents: Anexos
+        kinds:
+          medicine: Medicamento
+          physiotherapy: Fisioterapia
+          other: Outros
